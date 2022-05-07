@@ -1,0 +1,3 @@
+C:/Users/Ir_Informatic/CLionProjects/BigMultiple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ir_Informatic/CLionProjects/BigMultiple/cmake-build-debug/CMakeFiles/BigMultiple.dir
+C:/Users/Ir_Informatic/CLionProjects/BigMultiple/cmake-build-debug/CMakeFiles/edit_cache.dir
